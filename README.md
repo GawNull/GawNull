@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=/Gaw/null%20🔹&text2=🥶%20I'M%20MR.MEESEEKS%20LOOK%20AT%20ME!&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=/Gaw/null%20🔹&text2=🥶%20I'M%20MR.MEESEEKS%20LOOK%20AT%20ME!&width=800&height=300)](https://github.com/Akshay090/svg-banners)
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
