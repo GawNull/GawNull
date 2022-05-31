@@ -33,7 +33,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.twitter.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'TAG: /Gaw/null#1212'> <img width = '32px' align= 'center' src="https://cdn.discordapp.com/attachments/852918689786495016/973679529606389791/Discord-Logo.png"/></a> 
+<a href = 'https://discord.zmoon.fun'> <img width = '32px' align= 'center' src="https://cdn.discordapp.com/attachments/852918689786495016/973679529606389791/Discord-Logo.png"/></a> 
 <a href = 'https://www.github.com/GawNull'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
